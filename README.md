@@ -30,7 +30,7 @@ Meu nome é Edson Júnior, sou de Guaxupé, Sul de Minas Gerais, Brasil. Trabalh
 </a>
 
 <br />
-<b>🧰 Tecnologias</b><br />
+<b>🧰 Tecnologias</b><br /><br />
 <img align="left" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
