@@ -23,13 +23,13 @@ Meu nome é Edson Júnior, sou de Guaxupé, Sul de Minas Gerais, Brasil. Trabalh
   <img align="left" alt="LinkdeIN" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a target="_blank" href="mailto:juninhogpe@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
+  <img align="left" alt="Gmail" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5535988925357">
-  <img align="left" alt="Whatsapp" width="22px" src="https://img.icons8.com/office/48/000000/whatsapp.png" />
+  <img align="left" alt="Whatsapp" src="https://img.icons8.com/office/48/000000/whatsapp.png" />
 </a>
 
-<br />
+<br /><br />
 <b>🧰 Tecnologias</b>
 <p>
   <img align="left" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" />
