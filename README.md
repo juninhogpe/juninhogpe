@@ -29,7 +29,7 @@ Meu nome é Edson Júnior, sou de Guaxupé, Sul de Minas Gerais, Brasil. Trabalh
   <img align="left" alt="Whatsapp" src="https://img.icons8.com/office/48/000000/whatsapp.png" />
 </a>
 
-<br /><br />
+<br /><br /><br /><br />
 <h2>🧰 Tecnologias</h2>
 <p>
   <img align="left" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" />
