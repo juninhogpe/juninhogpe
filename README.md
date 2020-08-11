@@ -18,7 +18,7 @@ Meu nome é Edson Júnior, sou de Guaxupé, Sul de Minas Gerais, Brasil. Trabalh
 <br />
 
 
-<h1>✉ Contato</h1><br />
+✉ <h1>Contato</h1><br />
 <a target="_blank" href="www.linkedin.com/in/edson-dos-santos-júnior-02599424/">
   <img align="left" alt="LinkdeIN" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
