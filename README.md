@@ -18,7 +18,7 @@ My name is Edson dos Santos Júnior, I'm from Guaxupé / MG, Brazil and I work w
 
 I work with technologies with HTML, CSS, Bootstrap, PHP, MySQL and JS and I'm studying React.
 
-<br /><br />
+<br />
 
 <h2>✉ Contact</h2>
 <a target="_blank" href="www.linkedin.com/in/edson-dos-santos-júnior-02599424/">
