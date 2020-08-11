@@ -30,11 +30,13 @@ Meu nome é Edson Júnior, sou de Guaxupé, Sul de Minas Gerais, Brasil. Trabalh
 </a>
 
 <br />
-<b>🧰 Tecnologias</b><br /><br />
-
-<img align="left" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="PHP" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
-<img align="left" alt="MySQL" src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png"/>
-<img align="left" alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" alt="ReactJS" src="https://img.icons8.com/plasticine/48/000000/react.png"/>
+<b>🧰 Tecnologias</b>
+<p>
+  <img align="left" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  <img align="left" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png" />
+  <img align="left" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+  <img align="left" alt="PHP" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+  <img align="left" alt="MySQL" src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png"/>
+  <img align="left" alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img align="left" alt="ReactJS" src="https://img.icons8.com/plasticine/48/000000/react.png"/>
+</p>
