@@ -1,4 +1,4 @@
-### Sobre 👋
+### About 👋
 
 <!--
 **juninhogpe/juninhogpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Meu nome é Edson Júnior, sou de Guaxupé, Sul de Minas Gerais, Brasil. Trabalho com desenvolvimento web desde 2001. Atualmente trabalho na Unimed Guaxupé, onde tenho a função de Coordenador de Tecnologia da Informação. Sou apaixonado em tecnologia e trabalho atualmente com HTML, CSS, Bootstrap, PHP, MySQL e JS e estou estudando React.
+My name is Edson dos Santos Júnior, I'm from Guaxupé / MG, Brazil and I work with web development since 2001. Currently I work at Unimed Guaxupé and I'm the Information Technology Coordinator.
+
+I work with technologies with HTML, CSS, Bootstrap, PHP, MySQL and JS and I'm studying React.
 
 <br /><br />
 
-<h2>✉ Contato</h2>
+<h2>✉ Contact</h2>
 <a target="_blank" href="www.linkedin.com/in/edson-dos-santos-júnior-02599424/">
   <img align="left" alt="LinkdeIN" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
@@ -30,7 +32,7 @@ Meu nome é Edson Júnior, sou de Guaxupé, Sul de Minas Gerais, Brasil. Trabalh
 </a>
 
 <br /><br /><br /><br />
-<h2>🧰 Tecnologias</h2>
+<h2>🧰 Technologies</h2>
 <p>
   <img align="left" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" />
   <img align="left" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png" />
