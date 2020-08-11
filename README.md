@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Meu nome é Edson Júnior, sou de Guaxupé, Sul de Minas Gerais, Brasil. Trabalho com desenvolvimento web desde 2001. Atualmente trabalho na Unimed Guaxupé, onde tenho a função de Coordenador de Tecnologia da Informação. Sou apaixonado em tecnologia e trabalho atualmente com HTML, CSS, Bootstrap, PHP, MySQL e JS e estou estudando React.
-<br />
 
+<br /><br /><br /><br />
 
 <h2>✉ Contato</h2>
 <a target="_blank" href="www.linkedin.com/in/edson-dos-santos-júnior-02599424/">
