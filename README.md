@@ -18,15 +18,15 @@ Meu nome é Edson Júnior, sou de Guaxupé, Sul de Minas Gerais, Brasil. Trabalh
 <br />
 
 
-<b>Contato</b><br />
+<b>✉ Contato</b><br />
 <a target="_blank" href="www.linkedin.com/in/edson-dos-santos-júnior-02599424/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5535988925357">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="LinkdeIN" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a target="_blank" href="mailto:juninhogpe@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5535988925357">
+  <img align="left" alt="Whatsapp" width="22px" src="https://img.icons8.com/office/48/000000/whatsapp.png" />
 </a>
 
 <br />
