@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Edson dos Santos Júnior, I'm from Guaxupé / MG, Brazil and I work with web development since 2001. Currently I work at Unimed Guaxupé and I'm the Information Technology Coordinator.
 
-I work with technologies with HTML, CSS, Bootstrap, PHP, MySQL and JS and I'm studying React.
+I work with technologies with HTML, CSS, Bootstrap, PHP, MySQL, SQL Server and JS and I'm studying React.
 
 <br />
 
