@@ -39,6 +39,7 @@ I work with technologies with HTML, CSS, Bootstrap, PHP, MySQL and JS and I'm st
   <img align="left" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
   <img align="left" alt="PHP" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
   <img align="left" alt="MySQL" src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png"/>
+  <img align="left" alt="MySQL" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img align="left" alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img align="left" alt="ReactJS" src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 </p>
