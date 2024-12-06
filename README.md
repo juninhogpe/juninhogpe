@@ -27,7 +27,7 @@ I work with technologies with HTML, CSS, Bootstrap, PHP, MySQL, SQL Server and J
 <a target="_blank" href="mailto:juninhogpe@gmail.com">
   <img align="left" alt="Gmail" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5535988925357">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5535999627692">
   <img align="left" alt="Whatsapp" src="https://img.icons8.com/office/48/000000/whatsapp.png" />
 </a>
 
